@@ -110,10 +110,10 @@ pip install pandas numpy scikit-learn matplotlib
  **The real Data after PCA:**
   ![Data](https://github.com/Emelloul98/Clustering-with-GMM-and-KMeans/blob/main/real%20data.png)
   
-- **Number of classters selection using the elbow function:**
+**Number of classters selection using the elbow function:**
   ![elbow function](https://github.com/Emelloul98/Clustering-with-GMM-and-KMeans/blob/main/elbow%20function.png)
 
-- **KMeans Clustering vs GMM results Visualization:**
+**KMeans Clustering vs GMM results Visualization:**
   ![results](https://github.com/Emelloul98/Clustering-with-GMM-and-KMeans/blob/main/kmean%20vs%20GMM.png)
 
 
