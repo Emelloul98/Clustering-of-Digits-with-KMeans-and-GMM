@@ -1,7 +1,3 @@
-Here's a README file for your GMM and KMeans project in the format you provided:
-
----
-
 # Clustering with GMM and KMeans
 
 This project implements two unsupervised machine learning algorithms: Gaussian Mixture Model (GMM) and KMeans clustering. The goal of the project is to cluster a dataset and compare the performance of both algorithms in terms of clustering accuracy and visualization.
